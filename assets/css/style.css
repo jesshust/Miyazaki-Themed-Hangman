@@ -1,0 +1,67 @@
+body {
+	background: url(../images/turniphead3.png);
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif; 
+	color: #fff;
+	background-repeat: no-repeat;
+    background-position: center; 
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	height: 100%; 
+}
+
+
+
+.container{
+	width: 100px;
+	max-width: 960px; 
+	position: left;
+	font-family: 'Poppins', sans-serif;
+	min-height: 100%; 
+	margin-bottom: -142px; 
+}
+
+
+h1, 
+h2 {
+	font-family: 'Poppins', sans-serif;
+	 
+}
+
+#header {
+	position: fixed; 
+	margin: 0px 0px 50px 70px; 
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+}
+
+#main {
+	padding-top: 150px;
+}
+
+.main-section {
+	background: #fbbbb9;
+	margin: 100px 40px 20px 140px; 
+	float: left;
+	width: 475px;
+	height: 450px;
+	
+
+}
+
+#changingimage {
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	margin-left: 110px; 
+}
+
+#hangman {
+	text-align: center; 
+}
+
+
